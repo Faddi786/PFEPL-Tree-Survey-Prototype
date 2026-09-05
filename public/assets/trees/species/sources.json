@@ -1,0 +1,14 @@
+[
+  { "file": "neem.jpg", "species": "Azadirachta indica", "common": "Neem", "source": "Wikimedia Commons" },
+  { "file": "mango.jpg", "species": "Mangifera indica", "common": "Mango", "source": "Wikimedia Commons — Mango Tree, Kolkata" },
+  { "file": "peepal.jpg", "species": "Ficus religiosa", "common": "Peepal", "source": "Wikimedia Commons" },
+  { "file": "tamarind.jpg", "species": "Tamarindus indica", "common": "Tamarind", "source": "Generated field-survey photo" },
+  { "file": "gulmohar.jpg", "species": "Delonix regia", "common": "Gulmohar", "source": "Wikimedia Commons — Royal Poinciana" },
+  { "file": "coconut.jpg", "species": "Cocos nucifera", "common": "Coconut", "source": "Wikimedia Commons" },
+  { "file": "banyan.jpg", "species": "Ficus benghalensis", "common": "Banyan", "source": "Wikimedia Commons — Big Banyan Tree, Bangalore" },
+  { "file": "arjun.jpg", "species": "Terminalia arjuna", "common": "Arjun", "source": "Generated field-survey photo" },
+  { "file": "siris.jpg", "species": "Albizia lebbeck", "common": "Siris", "source": "Generated field-survey photo" },
+  { "file": "pongam.jpg", "species": "Pongamia pinnata", "common": "Pongam", "source": "Wikimedia Commons" },
+  { "file": "ashoka.jpg", "species": "Polyalthia longifolia", "common": "Ashoka", "source": "Wikimedia Commons" },
+  { "file": "casuarina.jpg", "species": "Casuarina equisetifolia", "common": "Casuarina", "source": "Generated field-survey photo" }
+]
